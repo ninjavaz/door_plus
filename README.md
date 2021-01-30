@@ -63,26 +63,38 @@ Project was created with:
 <p align="center">
   The main part with ESP32<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/1.png?raw=true"><br><br>
-
+</p>
+  
+<p align="center">
   Back part with OLED<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/2.png?raw=true"><br><br>
+</p>  
   
+<p align="center">
   Contactless open<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/3.png?raw=true"><br><br>
+</p>
   
+<p align="center">
   Actuator<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/4.png?raw=true"><br><br>
+</p>
 
+<p align="center">
   Closed in MQTT Dash<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/telefon2.png?raw=true"><br><br>
+</p>
   
+<p align="center">
   Open in MQTT Dash<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/telefon_3.png?raw=true"><br><br>
+</p>  
   
+<p align="center">
   Auto Wifi configuration<br><br>
-  <img align="center" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/wifi_config.png?raw=true"><br><br>
-
-
-
+  <img src="https://github.com/ninjavaz/door_plus/blob/main/Photos/wifi_config.png?raw=true"><br><br>
 </p>
+
+
+
 
