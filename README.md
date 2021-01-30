@@ -59,7 +59,7 @@ Project was created with:
 
 ## Photos
 
-* The main part with ESP32
+* The main part with ESP32<br>
 ![The main part with ESP32](https://github.com/ninjavaz/door_plus/blob/main/Photos/1.png?raw=true)<br>
 
 
