@@ -14,7 +14,7 @@ permission of author Dominik Nuszkiewicz <d1n22@onet.pl>.<br>
 * [Technologies](#technologies)
 * [Additional libraries](#libraries)
 * [Components](#components)
-
+* [Photos](#photos)
 
 
 ## General info
@@ -56,6 +56,10 @@ Project was created with:
 * 3D Printings
 * some typical cables and mini breadboard
 
+
+## Photos
+
+* ![The main part with ESP32](https://github.com/ninjavaz/door_plus/blob/main/Photos/1.png?raw=true)
 
 
 
