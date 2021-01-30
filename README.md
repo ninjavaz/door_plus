@@ -61,7 +61,28 @@ Project was created with:
 
 
 <p align="center">
-  * The main part with ESP32<br>
-  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/1.png?raw=true">
+  The main part with ESP32<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/1.png?raw=true"><br><br>
+
+  Back part with OLED<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/2.png?raw=true"><br><br>
+  
+  Contactless open<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/3.png?raw=true"><br><br>
+  
+  Actuator<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/4.png?raw=true"><br><br>
+
+  tel2<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/telefon2.png?raw=true"><br><br>
+  
+  tel3<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/telefon_3.png?raw=true"><br><br>
+  
+  Auto Wifi configuration<br><br>
+  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/wifi_config.png?raw=true"><br><br>
+
+
+
 </p>
 
