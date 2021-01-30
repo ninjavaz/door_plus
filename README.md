@@ -73,14 +73,14 @@ Project was created with:
   Actuator<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/4.png?raw=true"><br><br>
 
-  tel2<br><br>
+  Closed in MQTT Dash<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/telefon2.png?raw=true"><br><br>
   
-  tel3<br><br>
+  Open in MQTT Dash<br><br>
   <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/telefon_3.png?raw=true"><br><br>
   
   Auto Wifi configuration<br><br>
-  <img width="300" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/wifi_config.png?raw=true"><br><br>
+  <img align="center" src="https://github.com/ninjavaz/door_plus/blob/main/Photos/wifi_config.png?raw=true"><br><br>
 
 
 
