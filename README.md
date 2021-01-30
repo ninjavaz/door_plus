@@ -1,4 +1,6 @@
 
+The finished code for Door+ module. It's only develop branch from project repository.
+
 Copyright (C) 2021 Door+ <d1n22@onet.pl><br>
 This file is part of the Door+ project.<br>
 The Door+ project can not be copied and/or distributed without the express<br>
@@ -16,7 +18,7 @@ permission of author Dominik Nuszkiewicz <d1n22@onet.pl>.<br>
 
 
 ## General info
-Door+ is automatic, contactless doors with IoT elements based on ESP32. It was made for engineering project on Warsaw University of Technology. It was built with MQTT server - https://hivemq.com
+Door+ is automatic, contactless door module with IoT elements based on ESP32. It was made for engineering project on Warsaw University of Technology. It was built with MQTT server - https://hivemq.com
 Physical module has a few functions. Main of these are:
 
 1. Contactless opening and closing doors with ultrasonic motion sensor.
