@@ -1,5 +1,4 @@
-
-The finished code for Door+ module. It's only develop branch from project repository.
+Finished code for Door+ module. It's develop branch from private project repository.
 
 Copyright (C) 2021 Door+ <d1n22@onet.pl><br>
 This file is part of the Door+ project.<br>
